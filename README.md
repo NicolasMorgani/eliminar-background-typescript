@@ -44,7 +44,7 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 ## Estructura del Proyecto
 
 ```
-📂 tu-repositorio/
+📂 eliminar-background-typescript/
 │── 📂 src/
 │   └── index.ts
 │── 📂 dist/ (generado después de compilar)
