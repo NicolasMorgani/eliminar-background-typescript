@@ -14,12 +14,12 @@ Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
 1. Clona el repositorio desde GitHub:
    ```sh
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/NicolasMorgani/eliminar-background-typescript.git
    ```
 
 2. Accede al directorio del proyecto:
    ```sh
-   cd tu-repositorio
+   cd eliminar-background-typescript
    ```
 
 3. Instala las dependencias:
